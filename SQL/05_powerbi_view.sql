@@ -1,0 +1,25 @@
+CREATE VIEW vw_sales_dashboard AS
+SELECT
+    order_id,
+    date_id,
+    customer_id,
+    customer_name,
+    segment,
+    product_id,
+    product_name,
+    category,
+    sub_category,
+    region,
+    country,
+    state,
+    city,
+    ship_mode,
+    sales,
+    profit,
+    quantity,
+    discount,
+    year,
+    month,
+    month_name,
+    quarter
+FROM sales_data;
