@@ -28,4 +28,5 @@ Interactive dashboard visualizing key business insights.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Images/dashboard.png)
+<img width="1150" height="643" alt="image" src="https://github.com/user-attachments/assets/7c2628e0-56ea-4879-aa32-4d9a8adaadde" />
+
